@@ -39,3 +39,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### Screenshot
 
 ![output](./public/chart.jpg)
+
+### Project output
+- click on below link
+- https://stock-data-visualization-git-main-kusuma-adaris-projects.vercel.app/
